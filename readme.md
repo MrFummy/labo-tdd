@@ -1,0 +1,1 @@
+Archivo readme del Laboratorio 2 de la asignatura "Ingenieria del Software avanzada"
